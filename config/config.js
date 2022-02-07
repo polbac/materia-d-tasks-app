@@ -10,10 +10,10 @@ module.exports = {
     port: 5433,
   },
   production: {
-    username: "lbgjgfca",
-    password: "G8bzSCvbbGGtBkpzocj_ABeemmPezCE2",
+    username: "jfcpieftyzalwd",
+    password: "c88b4d56e3a7d8c2129e9fbf2754ad3aa32cf79225e677539d08d074c045afdb",
     database: "lbgjgfca",
-    host: "abul.db.elephantsql.com",
+    host: "ec2-34-230-110-100.compute-1.amazonaws.com",
     dialect: "postgres",
     port: 5433,
   },
