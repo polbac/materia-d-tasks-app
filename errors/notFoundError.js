@@ -1,7 +1,7 @@
 module.exports = (detail) => {
     return {
         code: 404,
-        text: "Not Found",
+        text: "Route not Found",
         detail,
     }
 }
