@@ -13,7 +13,7 @@ module.exports = {
     username: "lbgjgfca",
     password: "G8bzSCvbbGGtBkpzocj_ABeemmPezCE2",
     database: "lbgjgfca",
-    host: "	abul.db.elephantsql.com",
+    host: "abul.db.elephantsql.com",
     dialect: "postgres",
     port: 5433,
   },
