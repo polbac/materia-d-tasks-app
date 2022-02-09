@@ -32,4 +32,4 @@ async function expireTasks() {
     console.log(`${tasks.length} expiradas (${taskIds.join(",")})`)
 }
 
-expireTasks()
+module.exports = expireTasks
